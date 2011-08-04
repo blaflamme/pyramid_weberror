@@ -1,0 +1,12 @@
+Changelog for pyramid_weberror
+------------------------------
+
+Unreleased
+++++++++++
+
+- ...
+
+0.1a1 (2011-07-12)
+++++++++++++++++++
+
+- First alpha release.
